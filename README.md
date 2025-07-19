@@ -26,4 +26,4 @@ I am Fariz Esedzade, a 4th-year Computer Engineering student at Azerbaijan Techn
 
 ## Contact
 
-- LinkedIn: [[linkedin.com/in/fariz-esedzade](https://www.linkedin.com/in/fariz-esedzade)]
+- LinkedIn: https://www.linkedin.com/in/fariz-esedzade-2a77322b7/
